@@ -3,9 +3,18 @@
 <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+
+<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+
 <!--
 **K1EH/K1EH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
