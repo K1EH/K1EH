@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=FFFFFF" />
 <!--
 **K1EH/K1EH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
