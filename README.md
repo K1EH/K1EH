@@ -1,4 +1,8 @@
-### Hi there 👋
+<p>
+  ### Hi there 👋
+
+</p>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jitae01)](https://solved.ac/jitae01)
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" />
@@ -15,7 +19,7 @@
 <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" />
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jitae01)](https://solved.ac/jitae01)
+
 <!--
 **K1EH/K1EH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
