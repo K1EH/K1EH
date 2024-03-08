@@ -3,8 +3,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jitae01)](https://solved.ac/jitae01)
 <!-- Skills -->
 
-### Skills
-***
+### 💪 Skills
+---
 #### 🤖 AI & 🔢 Algorithm
 <p>
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />
@@ -45,17 +45,14 @@
   
 </p>
 
-***
+---
 
 ### 📮 Contact
-<div>
-    <a href="https://velog.io/@kieh/posts" target="_blank">
-        <img src="https://img.shields.io/badge/K1EH's Velog-20C997?style=social&logo=velog&logoColor=20C997"/>
-    </a>
-    <a href="mailto:jitae01@gachon.ac.kr">
-        <img src="https://img.shields.io/badge/Gmail : jitae01@gachon.ac.kr-EA4335?style=social&logo=gmail&logoColor=EA4335"/>
-    </a>
-</div>
+<p>
+  <a href="https://velog.io/@kieh/posts" target="_blank"><img src="https://img.shields.io/badge/K1EH's Velog-20C997?style=social&logo=velog&logoColor=20C997"/></a>
+  <img src="https://img.shields.io/badge/Gmail : jitae01@gachon.ac.kr-EA4335?style=social&logo=gmail&logoColor=EA4335"/>
+</p>
+
 
 <!--
 **K1EH/K1EH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
