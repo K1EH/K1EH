@@ -19,16 +19,18 @@
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
   <br>
+  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
   <br>
   <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" />
   <br>
   <!-- SNS -->
-  <a href="https://velog.io/@kieh/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=social&logo=velog&logoColor=20C997"/></a>
-  <img src="https://img.shields.io/badge/jitae01@gachon.ac.kr-EA4335?style=social&logo=gmail&logoColor=EA4335"/>
+  ✉️ SNS ✉️
+  <br>
+  <a href="https://velog.io/@kieh/posts" target="_blank"><img src="https://img.shields.io/badge/K1EH's Velog-20C997?style=social&logo=velog&logoColor=20C997"/></a>
+  <img src="https://img.shields.io/badge/Gmail : jitae01@gachon.ac.kr-EA4335?style=social&logo=gmail&logoColor=EA4335"/>
 </p>
 
 
