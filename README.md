@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" />
   <br>
+  <!-- SNS -->
   <a href="https://velog.io/@kieh/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=social&logo=velog&logoColor=20C997"/></a>
+  <img src="https://img.shields.io/badge/jitae01@gachon.ac.kr-EA4335?style=social&logo=gmail&logoColor=EA4335"/>
 </p>
 
 
