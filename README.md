@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jitae01)](https://solved.ac/jitae01)
-<!-- Skills -->
+
+<!-- 자기소개 -->
 
 ### 💪 Skills
 ---
@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Gmail : jitae01@gachon.ac.kr-EA4335?style=social&logo=gmail&logoColor=EA4335"/>
 </p>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jitae01)](https://solved.ac/jitae01)
 
 <!--
 **K1EH/K1EH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
