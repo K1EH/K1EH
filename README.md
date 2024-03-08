@@ -8,6 +8,7 @@
 | 💾 Database   | <p align="center">[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF)]()</p> |
 | 🛠️ Tools      | <p align="center">[![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF)]() <br> [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)]() [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)]()</p> |
 | 💻 IDE        | <p align="center">[![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)]() [![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=FFFFFF)]()</p> |
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jitae01)](https://solved.ac/jitae01)
 
 <!--
